@@ -1,0 +1,6 @@
+C:\Users\Jacob\source\repos\GamepediaProject\GamepediaApp.Domain\bin\Debug\GamepediaApp.Domain.dll
+C:\Users\Jacob\source\repos\GamepediaProject\GamepediaApp.Domain\bin\Debug\GamepediaApp.Domain.pdb
+C:\Users\Jacob\source\repos\GamepediaProject\GamepediaApp.Domain\obj\Debug\GamepediaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\GamepediaProject\GamepediaApp.Domain\obj\Debug\GamepediaApp.Domain.dll
+C:\Users\Jacob\source\repos\GamepediaProject\GamepediaApp.Domain\obj\Debug\GamepediaApp.Domain.pdb
+C:\Users\Jacob\source\repos\GamepediaProject\GamepediaApp.Domain\obj\Debug\GamepediaApp.Domain.csprojResolveAssemblyReference.cache
